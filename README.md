@@ -1,4 +1,4 @@
-# Reproduction-Deep-Clustering-Unsupervised-Learning-Visual-Features
+# Reproduction-Deep-Clustering
 
 Reproduced code of the paper “Deep Clustering for Unsupervised Learning of Visual Features” by Facebook AI Research in 2018. Created a complete reproduction of the DeepCluster network with Power Iteration Clustering and AlexNet.
 
